@@ -51,3 +51,7 @@ A topologia foi configurada e os testes realizados apresentaram comunicação en
 * Prática com comandos básicos do Cisco IOS por meio da CLI.
 * Realização de testes de conectividade com `ping`.
 * Observação e análise de pacotes ICMP utilizando o modo Simulation do Cisco Packet Tracer.
+
+## Demonstração
+
+![Simulação da rede no Cisco Packet Tracer](imagens/rede.gif)
